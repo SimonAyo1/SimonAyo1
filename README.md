@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Simon Ayo</h1>
-<h3 align="center">A passionate and enthusiastic software developer from Nigeria</h3>
+<h3 align="center">A passionate and enthusiastic frontend and mobile app developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonayo1&label=Profile%20views&color=0e75b6&style=flat" alt="simonayo1" /> </p>
 
 - 💬 Ask me about **Web and mobile development**
 
-- 📫 How to reach me **ibukuntundesimon@yahoo.com**
+- 📫 How to reach me **ayosimon.dev@gmail.com**
 
 - ⚡ Fun fact **I am a funny guy !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/simonayo4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simonayo4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/simon-ayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simon-ayo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
