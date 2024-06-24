@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simon Ayo</h1>
-<h3 align="center">A passionate and enthusiastic frontend and mobile app developer from Nigeria</h3>
+<h3 align="center">A passionate and enthusiastic software engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonayo1&label=Profile%20views&color=0e75b6&style=flat" alt="simonayo1" /> </p>
 
-- 💬 Ask me about **Web and mobile development**
+- 💬 Ask me about **Frontend, Backend and Blockchain Development**
 
 - 📫 How to reach me **ayosimon.dev@gmail.com**
 
