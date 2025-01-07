@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonayo1&label=Profile%20views&color=0e75b6&style=flat" alt="simonayo1" /> </p>
 
-- 💬 Ask me about **Frontend, Backend and Blockchain Development**
+- ⚡ **Frontend / Blockchain Engineer**
 
 - 📫 How to reach me **ayosimon.dev@gmail.com**
 
-- ⚡ Fun fact **I am a funny guy !**
+- 💬 Fun fact **I’m the team’s unofficial morale booster—good vibes are my specialty! 😄🎉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
